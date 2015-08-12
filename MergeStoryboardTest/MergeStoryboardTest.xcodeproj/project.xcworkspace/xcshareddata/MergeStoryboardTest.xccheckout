@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>27EF52CB-B37E-47BC-8E0B-AD02C00E670C</string>
+	<string>0070D8BF-B753-48F3-B23A-DAE56DC123E0</string>
 	<key>IDESourceControlProjectName</key>
-	<string>MergeStoryboardTest</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>385E8E6FDDEB133D0118F7228A946E52BC40C09D</key>
 		<string>https://github.com/GeorgeLuoTomin/MergeStoryboardTest.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MergeStoryboardTest/MergeStoryboardTest.xcodeproj</string>
+	<string>MergeStoryboardTest/MergeStoryboardTest.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>385E8E6FDDEB133D0118F7228A946E52BC40C09D</key>
