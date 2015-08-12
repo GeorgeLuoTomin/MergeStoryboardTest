@@ -9,6 +9,8 @@
 #import "ViewController3.h"
 
 @interface ViewController3 ()
+@property (weak, nonatomic) IBOutlet UILabel *label;
+@property (weak, nonatomic) IBOutlet UIButton *button;
 
 @end
 
