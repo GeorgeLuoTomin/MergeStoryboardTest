@@ -6,13 +6,13 @@
 //  Copyright (c) 2015年 tomin. All rights reserved.
 //
 
-#import "ViewController2.h"
+#import "ViewController3.h"
 
-@interface ViewController2 ()
+@interface ViewController3 ()
 
 @end
 
-@implementation ViewController2
+@implementation ViewController3
 
 - (void)viewDidLoad {
     [super viewDidLoad];

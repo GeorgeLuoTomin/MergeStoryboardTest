@@ -80,10 +80,10 @@
             </objects>
             <point key="canvasLocation" x="605" y="828"/>
         </scene>
-        <!--View Controller2-->
+        <!--View Controller3-->
         <scene sceneID="kSD-0m-In0">
             <objects>
-                <viewController id="ZrC-Qo-H7v" customClass="ViewController2" sceneMemberID="viewController">
+                <viewController id="ZrC-Qo-H7v" customClass="ViewController3" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="6nE-pJ-Zlt"/>
                         <viewControllerLayoutGuide type="bottom" id="K2o-Aw-Wf2"/>
